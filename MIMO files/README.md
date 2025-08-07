@@ -1,2 +1,4 @@
-This folder contains h-matrix files of MIMO simulations. Folders are seperated according to the antenna arrangement. 
-For each antenna arrangement there are 3 altitude (10m, 40m, 10m) and 2 differenct trajectory scenarios.
+This folder contains H-matrix files from MIMO simulations.
+
+The data is organized into subfolders based on antenna configurations (e.g., 8×8, 16×16, 32×32).
+For each antenna configuration, simulations are performed at three different altitudes (10m, 40m, 100m) and under two distinct trajectory scenarios.
